@@ -1,0 +1,3 @@
+Parameters|Full Receipt|Categories|Printer name|Copies|Paper width
+Online|False|190|Microsoft Print to PDF|1|80 mm
+Online,Split Items|False|142|Microsoft Print to PDF|1|80 mm

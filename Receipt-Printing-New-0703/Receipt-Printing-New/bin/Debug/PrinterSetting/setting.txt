@@ -1,0 +1,6 @@
+printername|
+timeinterval|5
+enablesound|true
+urlordercome|https://www.greek-painters.com/vo/food/7-6-dang-lang/printers/WinformsAppNew/OrderCome_v2.asp?id_r=2
+autostart|false
+PaperWidth|

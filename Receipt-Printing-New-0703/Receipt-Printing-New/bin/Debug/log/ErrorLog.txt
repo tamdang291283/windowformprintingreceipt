@@ -1,0 +1,30 @@
+
+Log Entry : 7:52:41 AM Sunday, August 6, 2023
+  :
+  :Error getResponsePostRequest:The remote server returned an error: (500) Internal Server Error. trace    at System.Net.HttpWebRequest.GetResponse()
+   at Receipt_Printing_New.Form1.getResponsePostRequest(String url) in D:\Working\tam.dang.co\printers\Thanh\Receipt-Printing-New-0703\Receipt-Printing-New\Form1.cs:line 538 url https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt.asp?mod=printingname&id_o=4960&id_r=2&isPrint=&idlist=
+-------------------------------
+
+Log Entry : 7:53:42 AM Sunday, August 6, 2023
+  :
+  :Error getResponsePostRequest:The remote server returned an error: (500) Internal Server Error. trace    at System.Net.HttpWebRequest.GetResponse()
+   at Receipt_Printing_New.Form1.getResponsePostRequest(String url) in D:\Working\tam.dang.co\printers\Thanh\Receipt-Printing-New-0703\Receipt-Printing-New\Form1.cs:line 538 url https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt.asp?mod=printingname&id_o=4962&id_r=2&isPrint=&idlist=
+-------------------------------
+
+Log Entry : 7:53:51 AM Sunday, August 6, 2023
+  :
+  :Error getResponsePostRequest:The remote server returned an error: (500) Internal Server Error. trace    at System.Net.HttpWebRequest.GetResponse()
+   at Receipt_Printing_New.Form1.getResponsePostRequest(String url) in D:\Working\tam.dang.co\printers\Thanh\Receipt-Printing-New-0703\Receipt-Printing-New\Form1.cs:line 538 url https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt.asp?mod=printingname&id_o=4963&id_r=2&isPrint=&idlist=&mid=1104
+-------------------------------
+
+Log Entry : 7:54:15 AM Sunday, August 6, 2023
+  :
+  :Error getResponsePostRequest:The remote server returned an error: (500) Internal Server Error. trace    at System.Net.HttpWebRequest.GetResponse()
+   at Receipt_Printing_New.Form1.getResponsePostRequest(String url) in D:\Working\tam.dang.co\printers\Thanh\Receipt-Printing-New-0703\Receipt-Printing-New\Form1.cs:line 538 url https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt.asp?mod=printingname&id_o=4964&id_r=2&isPrint=&idlist=
+-------------------------------
+
+Log Entry : 8:03:38 AM Sunday, August 6, 2023
+  :
+  :Error getResponsePostRequest:The remote server returned an error: (500) Internal Server Error. trace    at System.Net.HttpWebRequest.GetResponse()
+   at Receipt_Printing_New.Form1.getResponsePostRequest(String url) in D:\Working\tam.dang.co\printers\Thanh\Receipt-Printing-New-0703\Receipt-Printing-New\Form1.cs:line 538 url https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt.asp?mod=printingname&id_o=4969&id_r=2&isPrint=&idlist=&mid=1104
+-------------------------------

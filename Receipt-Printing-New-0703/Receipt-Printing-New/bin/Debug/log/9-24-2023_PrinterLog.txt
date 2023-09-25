@@ -1,0 +1,15 @@
+
+Log Entry : 4:27:00 PM Sunday, September 24, 2023
+  :
+  :URL: https://www.greek-painters.com/vo/food/7-6-dang-lang/printers/WinformsAppNew/OrderCome_v2.asp?id_r=2
+-------------------------------
+
+Log Entry : 4:30:05 PM Sunday, September 24, 2023
+  :
+  :URL: https://www.greek-painters.com/vo/food/7-6-dang-lang/printers/WinformsAppNew/OrderCome_v2.asp?id_r=2
+-------------------------------
+
+Log Entry : 4:30:16 PM Sunday, September 24, 2023
+  :
+  :ResponseText: NOTFOUND
+-------------------------------

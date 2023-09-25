@@ -1,0 +1,135 @@
+
+Log Entry : 7:42:12 AM Sunday, August 27, 2023
+  :
+  :URL: https://www.greek-painters.com/vo/food/7-6-dang-lang/printers/WinformsAppNew/OrderCome_v2.asp?id_r=2
+-------------------------------
+
+Log Entry : 7:43:30 AM Sunday, August 27, 2023
+  :
+  :URL: https://www.greek-painters.com/vo/food/7-6-dang-lang/printers/WinformsAppNew/OrderCome_v2.asp?id_r=2
+-------------------------------
+
+Log Entry : 7:47:57 AM Sunday, August 27, 2023
+  :
+  :URL: https://www.greek-painters.com/vo/food/7-6-dang-lang/printers/WinformsAppNew/OrderCome_v2.asp?id_r=2
+-------------------------------
+
+Log Entry : 7:54:03 AM Sunday, August 27, 2023
+  :
+  :URL: https://www.greek-painters.com/vo/food/7-6-dang-lang/printers/WinformsAppNew/OrderCome_v2.asp?id_r=2
+-------------------------------
+
+Log Entry : 7:54:12 AM Sunday, August 27, 2023
+  :
+  :ResponseText: https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt.asp?mod=printingname&id_o=4979&id_r=2&isPrint=&idlist=[**]4979[**]2
+-------------------------------
+
+Log Entry : 7:54:12 AM Sunday, August 27, 2023
+  :
+  :printing: https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt.asp?mod=printingname&id_o=4979&id_r=2&isPrint=&idlist=
+-------------------------------
+
+Log Entry : 7:54:15 AM Sunday, August 27, 2023
+  :
+  :printing: Success!
+-------------------------------
+
+Log Entry : 7:54:15 AM Sunday, August 27, 2023
+  :
+  :ResponseText: https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt_item.asp?mod=printingname&id_o=4980&id_r=2&isPrint=&idlist=&mid=673|https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt_item.asp?mod=printingname&id_o=4980&id_r=2&isPrint=&idlist=&mid=674[**]4980[**]2
+-------------------------------
+
+Log Entry : 7:54:15 AM Sunday, August 27, 2023
+  :
+  :printing: https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt_item.asp?mod=printingname&id_o=4980&id_r=2&isPrint=&idlist=&mid=673
+-------------------------------
+
+Log Entry : 7:54:17 AM Sunday, August 27, 2023
+  :
+  :printing: Success!
+-------------------------------
+
+Log Entry : 7:54:17 AM Sunday, August 27, 2023
+  :
+  :printing: https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt_item.asp?mod=printingname&id_o=4980&id_r=2&isPrint=&idlist=&mid=674
+-------------------------------
+
+Log Entry : 7:54:18 AM Sunday, August 27, 2023
+  :
+  :printing: Success!
+-------------------------------
+
+Log Entry : 7:54:23 AM Sunday, August 27, 2023
+  :
+  :URL: https://www.greek-painters.com/vo/food/7-6-dang-lang/printers/WinformsAppNew/OrderCome_v2.asp?id_r=2
+-------------------------------
+
+Log Entry : 7:54:33 AM Sunday, August 27, 2023
+  :
+  :ResponseText: https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt.asp?mod=printingname&id_o=4981&id_r=2&isPrint=&idlist=[**]4981[**]2
+-------------------------------
+
+Log Entry : 7:54:33 AM Sunday, August 27, 2023
+  :
+  :printing: https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt.asp?mod=printingname&id_o=4981&id_r=2&isPrint=&idlist=
+-------------------------------
+
+Log Entry : 7:54:35 AM Sunday, August 27, 2023
+  :
+  :printing: Success!
+-------------------------------
+
+Log Entry : 7:54:35 AM Sunday, August 27, 2023
+  :
+  :ResponseText: https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt_item.asp?mod=printingname&id_o=4982&id_r=2&isPrint=&idlist=&mid=1102[**]4982[**]2
+-------------------------------
+
+Log Entry : 7:54:35 AM Sunday, August 27, 2023
+  :
+  :printing: https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt_item.asp?mod=printingname&id_o=4982&id_r=2&isPrint=&idlist=&mid=1102
+-------------------------------
+
+Log Entry : 7:54:37 AM Sunday, August 27, 2023
+  :
+  :printing: Success!
+-------------------------------
+
+Log Entry : 7:54:38 AM Sunday, August 27, 2023
+  :
+  :URL: https://www.greek-painters.com/vo/food/7-6-dang-lang/printers/WinformsAppNew/OrderCome_v2.asp?id_r=2
+-------------------------------
+
+Log Entry : 7:54:40 AM Sunday, August 27, 2023
+  :
+  :ResponseText: https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt.asp?mod=printingname&id_o=4994&id_r=2&isPrint=&idlist=[**]4994[**]2
+-------------------------------
+
+Log Entry : 7:54:40 AM Sunday, August 27, 2023
+  :
+  :printing: https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt.asp?mod=printingname&id_o=4994&id_r=2&isPrint=&idlist=
+-------------------------------
+
+Log Entry : 7:54:42 AM Sunday, August 27, 2023
+  :
+  :printing: Success!
+-------------------------------
+
+Log Entry : 7:54:43 AM Sunday, August 27, 2023
+  :
+  :ResponseText: https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt_item.asp?mod=printingname&id_o=4999&id_r=2&isPrint=&idlist=&mid=738[**]4999[**]2
+-------------------------------
+
+Log Entry : 7:54:43 AM Sunday, August 27, 2023
+  :
+  :printing: https://www.greek-painters.com/vo/food/7-6-Dang-lang/printers/WinformsAppNew/Receipt_item.asp?mod=printingname&id_o=4999&id_r=2&isPrint=&idlist=&mid=738
+-------------------------------
+
+Log Entry : 7:54:44 AM Sunday, August 27, 2023
+  :
+  :printing: Success!
+-------------------------------
+
+Log Entry : 7:54:48 AM Sunday, August 27, 2023
+  :
+  :URL: https://www.greek-painters.com/vo/food/7-6-dang-lang/printers/WinformsAppNew/OrderCome_v2.asp?id_r=2
+-------------------------------
