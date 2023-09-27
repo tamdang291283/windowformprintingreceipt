@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using TheArtOfDev.HtmlRenderer.Adapters;
+//using TheArtOfDev.HtmlRenderer.Adapters;
 using System.Configuration;
 
 namespace Receipt_Printing_New

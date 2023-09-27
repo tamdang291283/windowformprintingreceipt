@@ -16,7 +16,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static DevExpress.Xpo.Helpers.PerformanceCounters;
+//using static DevExpress.Xpo.Helpers.PerformanceCounters;
 
 namespace Receipt_Printing_New
 {
